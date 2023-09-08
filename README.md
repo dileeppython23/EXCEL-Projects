@@ -1,2 +1,2 @@
-# MyPortFolio
-portfolio files-SQL, EXCEL, Python, POWER BI
+# EXCEL Project-Bikes Sales Dashboard
+data-cleaning, data analysis formulas, pivot table, dashboard
